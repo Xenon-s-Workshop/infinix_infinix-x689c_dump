@@ -1,0 +1,14 @@
+# sys_tssi_64_infinix-user 11 RP1A.200720.011 75090 release-keys
+- manufacturer: 
+- platform: mt6768
+- codename: Infinix-X689C
+- flavor: sys_tssi_64_infinix-user
+- release: 11
+- id: RP1A.200720.011
+- incremental: 210202V100
+- tags: release-keys
+- fingerprint: Infinix/X689C-OP/Infinix-X689C:11/RP1A.200720.011/210202V96:user/release-keys
+- is_ab: true
+- brand: Infinix
+- branch: sys_tssi_64_infinix-user-11-RP1A.200720.011-75090-release-keys
+- repo: infinix_infinix-x689c_dump
